@@ -1,6 +1,6 @@
 # CardOuterGLow-trick
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view (2)](https://github.com/hossein-deyri/CardOuterGLow-trick/assets/136192436/c8047830-0256-4d87-8a79-1a60b3ca44da)
 
 - [Demo Project](https://hossein-deyri.github.io/First-Project/)
 
