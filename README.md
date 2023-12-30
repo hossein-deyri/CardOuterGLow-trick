@@ -1,5 +1,5 @@
 # CardOuterGLow-trick
-Not Responsive
+( Not Responsive )
 
 ![view (2)](https://github.com/hossein-deyri/CardOuterGLow-trick/assets/136192436/c8047830-0256-4d87-8a79-1a60b3ca44da)
 
